@@ -11,7 +11,7 @@ Here you can find the resources to build the wind tunnel and light tunnel protot
 
 - [`arduino/`](arduino/) contains the code for the arduino boards that control each chamber
 - [`control/`](control/) contains the python code to connect your computer to the chambers and run experiments
-- [`blueprints/`](blueprints/) contains the lasercutter diagrams for each chamber and the list of necessary components
+- [`lasercuts/`](lasercuts/) contains the lasercutter diagrams for each chamber and the list of necessary components
 - [`schematics/`](schematics/) contains the schematics for the electronics of each chamber
 
 ## Disclaimer
