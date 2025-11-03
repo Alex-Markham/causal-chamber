@@ -22,7 +22,7 @@ To build the chambers you will need some common assembly tools and access to som
 
 ## Remote Lab API
 
-We maintain a pool of chambers that you can operate in real-time using in our Remote Lab API. Visit [causalchamber.ai](causalchamber.ai) for more information.
+We maintain a pool of chambers that you can operate in real-time using in our Remote Lab API. Visit [causalchamber.ai](https://causalchamber.ai/) for more information.
 
 ## Licenses
 
