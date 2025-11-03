@@ -1,0 +1,36 @@
+Component name,Qty.,Notes
+NEMA 17 stepper motor,2,"You will need a cable to connect the motor to the motor driver (A4988, see below). What cable will depend on the motor you use."
+NEMA 17 stepper motor bracket (90 degrees),2,"See, e.g., https://www.omc-stepperonline.com/nema-17-bracket-for-stepper-motor-and-geared-stepper-motor-alloy-steel-bracket-st-m1"
+"Mounting Hub for 5mm Shaft, M3 Holes",2,"See, e.g., https://eckstein-shop.de/PololuUniversalAluminumMountingHubfor5mmShaft2CM3Holes2-PackEN"
+"12V, >2.2A DC power supply with 5.5mm jack",1,"See, e.g., https://www.distrelec.ch/en/plug-in-power-supply-240v-2a-27w-euro-type-cee-16-plug-mm-barrel-plug-rnd-rnd-320-00060/p/30178142"
+DC power socket for 5.5mm jack,1,"See, e.g., https://www.distrelec.ch/en/dc-power-connector-socket-straight-5x5-5x10mm-rnd-rnd-205-00906/p/30129726?pos=5&origPos=15&origPageSize=50&track=true&sid=8wnP6QggZ5&itemList=category"
+Red LED 5mm,7,"For the ""MSR"" indicator LED and the inner LEDs (L_11, ..., L_32)"
+Blue LED 5mm,1,"For the ""SET"" indicator LED"
+Grove LCD RGB backlight display v4.0,1,"See, e.g., https://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/"
+Light source (LED matrix),1,See https://github.com/juangamella/causal-chamber/blob/main/hardware/datasheets/light_source.pdf
+Grove Sunlight Sensor v2.0,3,See https://wiki.seeedstudio.com/Grove-Sunlight_Sensor/
+"Rotary potentiometer, 10kOhm, 10 turns, 5mm shaft",2,"See, e.g, https://www.distrelec.ch/en/rotary-potentiometer-10kohm-2w-linear-22mm-bourns-3590s-103l/p/16434389"
+M3 drive-in nut,4,"See, e.g., https://www.galaxus.ch/en/s4/product/ep-m3-drive-in-nuts-m3-nuts-washers-6056981"
+A4988 Stepper Motor Driver (with headers),2,"See, e.g., https://www.pololu.com/product/1182"
+MCP4151-103E/P Digital Potentiometer,6,"See, e.g., https://www.distrelec.ch/en/digital-potentiometer-10kohm-spi-dip-microchip-mcp4151-103e/p/30302024"
+Grove - 8 Channel I2C Multiplexer/I2C Hub (TCA9548A),1,"See, e.g., https://wiki.seeedstudio.com/Grove-8-Channel-I2C-Multiplexer-I2C-Hub-TCA9548A/"
+Grove - 2.5A DC Current Sensor (ACS70331),1,"See, e.g., https://wiki.seeedstudio.com/Grove-2.5A-DC-Current-Sensor-ACS70331/. No longer in production."
+Arduino Mega Rev3,1,"See, e.g., https://store.arduino.cc/products/arduino-mega-2560-rev3?srsltid=AfmBOop82AY3qkEYjLyoYC5Ljk_lyRTTUfCJWFeTdFd5juhVK_8JKbqm"
+Grove Base Shield V2.0 for Arduino,1,"See, e.g., https://www.seeedstudio.com/Base-Shield-V2.html?srsltid=AfmBOoqOH96XPrrsqLAjfNW_5yyeByuQaPA7X6pnoucYt22LWYAaethH"
+Linear-polarizing film,NA,See https://github.com/juangamella/causal-chamber/blob/main/hardware/datasheets/polarizers.pdf
+Step-down switching voltage regulator,1,"See, e.g., https://www.reichelt.com/ch/de/shop/produkt/entwicklerboards_-_spannungsregler_1_7_x_2_2_cm-282575"
+Breadboard or protoboard,1,"See, e.g., https://www.distrelec.ch/en/perma-proto-half-sized-pcb-breadboard-single-adafruit-1609/p/30091149"
+220 µF capacitor,1,
+180 Ω resistor,8,"Through hole, >200 mW is enough"
+10 KΩ resistor,2,"Through hole, >200 mW is enough"
+1 KΩ resistor,1,"Through hole, >200 mW is enough"
+"Sufficient M2, M3 and M4 nuts, bolts and spacers",NA,NA
+"Sufficient Dupont & jumper cables (male-male, male-female, etc.)",NA,"See, e.g., https://www.digitec.ch/en/s1/product/purecrea-jumperkabel-cables-plugs-34239672"
+Lasercut materials,NA,See lasercut blueprints
+USB-A to USB-B cable,1,"See, e.g., https://www.digitec.ch/en/s1/product/delock-usb-a-usb-b-050-m-usb-20-usb-cables-11752477"
+Grove Connector Cables,NA,"The sensors and LED display are usually sold with a Grove cable. If the cable is too short for assembly, you might need to buy longer ones, e.g., https://www.mouser.ch/ProductDetail/Seeed-Studio/110990064"
+Sony Alpha 6100,1,"See, e.g., https://www.galaxus.ch/de/s1/product/sony-alpha-6100-2420-mpx-aps-c-dx-kamera-11807599"
+Sony 50mm Lens for an APS-C sensor,1,"See, e.g., https://www.digitec.ch/en/s1/product/sony-e-50mm-f18-oss-e-mount-sony-e-aps-c-dx-lenses-631734"
+Sony Camera Trigger,1,"See, e.g., https://www.digitec.ch/en/s1/product/sony-cable-remote-release-rm-spr1-cable-camera-remote-controls-5829128"
+External camera power supply,1,"See, e.g., https://www.digitec.ch/en/s1/product/sony-ac-pw20-power-adapter-camera-power-supply-247324"
+"1/4"" Hex Screw for camera",1,"See, e.g., https://www.digitec.ch/en/s1/product/smallrig-hex-screw-pack-screws-digital-camera-accessories-12594521"
