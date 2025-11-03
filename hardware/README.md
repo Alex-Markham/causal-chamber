@@ -16,9 +16,11 @@ Here you can find the resources to build the wind tunnel and light tunnel protot
 
 ## Disclaimer
 
-To build the chambers you will need some common assembly tools and access to some more specialized equipment: a laser cutter of sufficient size and an electronics bench (for soldering and testing). We assume that you already posses the pertinent knowledge to use them. We do not actively maintain this hardware repository, but if you write us an [email](mailto:juan@causalchamber.ai) we may be able to help you :)
+To build the chambers you will need some common assembly tools and access to some more specialized equipment: a laser cutter of sufficient size and an electronics bench (for soldering and testing). We assume that you already posses the pertinent knowledge to use them.
 
-<mark>**NOTE:** Since publication, some of the components needed for the prototypes are no longer manufactured. You will need to find a replacement for the ACS70331 2.5A current sensor; depending on where you live, the Grove chips with the DPS310 barometers may also be difficult to find (see [here](https://wiki.seeedstudio.com/Sensor_barometer/) for alternatives).</mark>
+We do not actively maintain this hardware repository, but if you write us an [email](mailto:juan@causalchamber.ai) we may be able to help you :)
+
+<mark>**NOTE:** Since publication, some of the components needed for the prototypes are no longer manufactured. You will need to find a replacement for the ACS70331 2.5A current sensor. Depending on where you live, the Grove chips with the DPS310 barometers may also be difficult to find (see [here](https://wiki.seeedstudio.com/Sensor_barometer/) for alternatives).</mark>
 
 ## Remote Lab API
 
